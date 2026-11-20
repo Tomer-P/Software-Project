@@ -1,0 +1,19 @@
+# Compiled extension and C executable
+/symnmf
+*.so
+*.pyd
+*.dll
+*.dylib
+*.o
+
+# Python and build output
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Local development files
+.venv/
+.idea/
+.vscode/
